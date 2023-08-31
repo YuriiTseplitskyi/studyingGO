@@ -1,2 +1,4 @@
-github.com/YuriiTseplitskyi/puppy v0.0.0-20230830132009-94b948173b16 h1:Fd9cgRGTsdaDTdecNFdEDhRVwf2plnmWcyq/gvmuy54=
-github.com/YuriiTseplitskyi/puppy v0.0.0-20230830132009-94b948173b16/go.mod h1:7UGPV80WWNueVtPITn9QQD7AzpLRyrF7nkQHol1/iU4=
+github.com/YuriiTseplitskyi/puppy v1.0.0 h1:tXq0VGexCjWjH60fB0rERAOZzQz4E5/n/as+TX09Uhs=
+github.com/YuriiTseplitskyi/puppy v1.0.0/go.mod h1:7UGPV80WWNueVtPITn9QQD7AzpLRyrF7nkQHol1/iU4=
+github.com/YuriiTseplitskyi/puppy v1.1.0 h1:13MaoGvwjnYrLBmc6YKxsosT5sO+NKglauBCqFdSuvA=
+github.com/YuriiTseplitskyi/puppy v1.1.0/go.mod h1:7UGPV80WWNueVtPITn9QQD7AzpLRyrF7nkQHol1/iU4=

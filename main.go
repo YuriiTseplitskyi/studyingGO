@@ -13,4 +13,7 @@ func main(){
 	fmt.Println("Hello World2")
 	s1:=puppy.Barks()
 	fmt.Println(s1)
+	s2:=puppy.Bark3()
+	fmt.Println(s2)
+	fmt.Println("I am from version 1.3.0")
 }
