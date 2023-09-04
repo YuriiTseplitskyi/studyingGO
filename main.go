@@ -15,6 +15,7 @@ func From13() {
 func puppytest() {
 	s1 := puppy.Barks()
 	fmt.Println(s1)
+<<<<<<< HEAD
 }
 
 func okidiom(){
@@ -47,3 +48,9 @@ func main() {
 
 	Arrays2()
 }
+=======
+	s2:=puppy.Bark3()
+	fmt.Println(s2)
+	fmt.Println("I am from version 1.3.0")
+}
+>>>>>>> db5afa60fd04b5e397ca67c1e28bb375705c0360
